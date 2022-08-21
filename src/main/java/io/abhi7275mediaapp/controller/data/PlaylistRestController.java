@@ -1,4 +1,4 @@
-package io.educative.mediaapp.controller.data;
+package io.abhi7275mediaapp.controller.data;
 
 import java.math.BigInteger;
 import java.util.Optional;
@@ -15,9 +15,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import io.educative.mediaapp.model.Playlist;
-import io.educative.mediaapp.model.Song;
-import io.educative.mediaapp.service.PlaylistService;
+import io.abhi7275mediaapp.model.Playlist;
+import io.abhi7275mediaapp.model.Song;
+import io.abhi7275mediaapp.service.PlaylistService;
 
 @RestController
 @RequestMapping("/playlist")

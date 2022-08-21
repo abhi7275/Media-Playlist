@@ -1,11 +1,11 @@
-package io.educative.mediaapp.controller;
+package io.abhi7275mediaapp.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import io.educative.mediaapp.service.PlaylistService;
+import io.abhi7275mediaapp.service.PlaylistService;
 
 @Controller
 public class PlaylistController {

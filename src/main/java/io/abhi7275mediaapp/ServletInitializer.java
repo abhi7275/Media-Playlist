@@ -1,4 +1,4 @@
-package io.educative.mediaapp;
+package io.abhi7275mediaapp;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

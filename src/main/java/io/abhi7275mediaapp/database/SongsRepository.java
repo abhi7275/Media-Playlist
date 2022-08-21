@@ -1,4 +1,4 @@
-package io.educative.mediaapp.database;
+package io.abhi7275mediaapp.database;
 
 import java.math.BigInteger;
 import java.util.Collection;
@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.transaction.annotation.Transactional;
 
-import io.educative.mediaapp.model.Song;
+import io.abhi7275mediaapp.model.Song;
 
 public interface SongsRepository extends JpaRepository<Song, BigInteger> {
 

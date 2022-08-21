@@ -1,4 +1,4 @@
-package io.educative.mediaapp.model;
+package io.abhi7275mediaapp.model;
 
 import java.math.BigInteger;
 import java.util.Date;

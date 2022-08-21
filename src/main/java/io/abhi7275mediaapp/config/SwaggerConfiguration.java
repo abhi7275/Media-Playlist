@@ -1,4 +1,4 @@
-package io.educative.mediaapp.config;
+package io.abhi7275mediaapp.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

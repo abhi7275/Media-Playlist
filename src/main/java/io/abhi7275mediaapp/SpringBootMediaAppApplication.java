@@ -1,4 +1,4 @@
-package io.educative.mediaapp;
+package io.abhi7275mediaapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

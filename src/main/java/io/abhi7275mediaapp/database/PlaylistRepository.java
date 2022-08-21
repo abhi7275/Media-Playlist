@@ -1,4 +1,4 @@
-package io.educative.mediaapp.database;
+package io.abhi7275mediaapp.database;
 
 import java.math.BigInteger;
 import java.util.Collection;
@@ -8,8 +8,8 @@ import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import io.educative.mediaapp.model.Playlist;
-import io.educative.mediaapp.model.Song;
+import io.abhi7275mediaapp.model.Playlist;
+import io.abhi7275mediaapp.model.Song;
 
 public interface PlaylistRepository extends JpaRepository<Playlist, BigInteger> {
 

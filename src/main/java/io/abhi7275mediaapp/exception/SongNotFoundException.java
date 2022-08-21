@@ -1,4 +1,4 @@
-package io.educative.mediaapp.exception;
+package io.abhi7275mediaapp.exception;
 
 import java.math.BigInteger;
 
